@@ -1,0 +1,12 @@
+{
+  "name": "Paper Proxy",
+  "version": "1.0",
+  "description": "Replace paywall URL with proxy URL",
+  "manifest_version": 3,
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
