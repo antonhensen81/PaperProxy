@@ -7,12 +7,12 @@ const ftsites = [
 		"https://www.volkskrant.nl/",
 		"https://speld.nl/"
 	];
-	const archsites = [
-		"https://www.ad.nl/",
-		"https://www.parool.nl/",
-		"https://www.trouw.nl/",
-		"https://www.telegraaf.nl"
-	];
+const archsites = [
+	"https://www.ad.nl/",
+	"https://www.parool.nl/",
+	"https://www.trouw.nl/",
+	"https://www.telegraaf.nl"
+];
 </pre>
 
 ## Install
